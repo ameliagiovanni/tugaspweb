@@ -1,0 +1,3 @@
+{"Nama":"Amelia Giovanni","NIM":"2300018383","Tanggal Lahir":"2006-01-18","Jenis Kelamin":"Perempuan","Alamat":"Sumatera Selatan"}
+{"Nama":"Amelia Giovanni","NIM":"2300018383","Tanggal Lahir":"2006-01-18","Jenis Kelamin":"Perempuan","Alamat":"Sumatera Selatan"}
+{"Nama":"Amelia Giovanni","NIM":"2300018383","Tanggal Lahir":"2006-01-18","Jenis Kelamin":"Perempuan","Alamat":"Sumsel"}
